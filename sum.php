@@ -14,3 +14,4 @@ function sum($max) {
 // 関数を実行
 echo sum(100);
 echo "\n";
+echo "更新";
